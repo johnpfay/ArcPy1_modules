@@ -1,5 +1,5 @@
 # ImportDemo.py - Importing modules various ways and the "namespace" concept
-# Restart the kernel before running this
+# Restart the kernel/clear outputs before running this
 
 #%%% Use the dir() function to list all loaded modules and variables
 dir()
